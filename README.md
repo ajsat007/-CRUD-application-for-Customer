@@ -50,4 +50,4 @@ The Customer Management System is a web application that allows users to perform
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/customer-management-system.git
+   git clone https://github.com/ajsat007/-CRUD-application-for-Customer.git
